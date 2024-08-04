@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Subscribe To MobileGames❤️"];
+const statusMessages = ["Subscribe To MobileGames❤️","Like And Subscribe👍"];
 
 
 let currentIndex = 0;
