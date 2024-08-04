@@ -6,10 +6,10 @@
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
   GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  DISCORD SERVER : https://discord.gg/jbeADYuwKc
+  YOUTUBE : https://www.youtube.com/channel/UCpmcP0NStdbXcBGxbAYhi8g
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Arsalan
  * **********************************************
  */
 
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By Arsalan Fr Fr"];
+const statusMessages = ["Subscribe To MobileGames❤️,"Like And Subscribe👍"];
 
 
 let currentIndex = 0;
